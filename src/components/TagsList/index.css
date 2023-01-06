@@ -1,0 +1,14 @@
+.tag-list-items {
+  list-style-type: none;
+  margin-right: 20px;
+}
+
+.tag-button {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  border-radius: 20px;
+  padding: 10px;
+  color: #ffffff;
+  outline: none;
+  cursor: pointer;
+}
